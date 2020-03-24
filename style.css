@@ -1,0 +1,283 @@
+body{
+    background-image: url(https://www.roche.dk/content/dam/rochexx/roche-dk/billeder/om-roche/Vores%20bidrag%20i%20Danmark.jpg); 
+    background-size: cover;
+    background-color: gray;
+}
+
+
+.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa{
+    color: black;
+}
+
+
+.yes{
+    color: orange;
+}
+.not_so_yes{
+    color: rgb(56, 56, 56);
+}
+.yesnt{
+    background-color: rgba(255, 193, 120, 0.9);
+    position: absolute;
+    left: 35%;
+    bottom: 0%;
+    top: 100px;
+    right: 35%;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    border: solid 10px rgb(255, 134, 86);
+}
+
+
+
+
+.no{
+    position: absolute;
+    left: 0%;
+    background-color: rgb(99, 87, 87);
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    height: 580px;
+    padding-top: 5px;
+    width: 150px;
+    margin-top: 1;
+}
+
+.ti{
+    width: 400px;
+    height: 200px;
+}
+
+.e{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 43.5px;
+}
+
+.canoftuna{
+    position: absolute;
+    margin-left: 36.5%;
+    margin-top: 360px;
+
+}
+
+.shnek{
+    position: absolute;
+    margin-left: 43.5%;
+    margin-top: 460px;
+
+}
+
+.frog{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 36.5%;
+    box-align: center;
+    border-radius: 20%;
+    z-index: 1;
+    width: 400px;
+    height: 200px;
+}
+
+.canofshit{
+    position: absolute;
+    margin-left: 36.5%;
+    margin-top: 420px;
+}
+
+.shnek-9{
+    position: absolute;
+    margin-left: 43.5%;
+    margin-top: 520px;
+
+}
+
+.the-scuffed-tower{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 36.5%;
+    box-align: center;
+    border-radius: 20%;
+    z-index: 1;
+    width: 400px;
+    height: 500px;
+}
+
+.the-yesnt-tower{
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    left: 35%;
+    bottom: 0%;
+    top: 100px;
+    right: 35%;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    height: 800px;
+}
+
+.acanofscuff{
+    position: absolute;
+    margin-left: 36.5%;
+    margin-top: 665px;
+}
+
+.shcuff{
+    position: absolute;
+    margin-left: 43.5%;
+    margin-top: 750px;
+
+}
+
+.hhhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm{
+    position: absolute;
+    margin-top: 650px;
+    opacity: 0%;
+}
+
+.eight-ball{
+    list-style: none;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: -40px;
+    right: 0px;
+}
+
+.shmoop{
+    text-decoration: none;
+    display: block;
+
+
+}
+
+.not_going_to_use_class_names_that_are_easy_to_remember{
+    float: left;
+    position: relative;
+    width: 507.2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: white;
+    text-align: center;
+
+
+}
+
+li > ul{
+    position: absolute;
+    top: 28px;
+    display: none;
+}
+
+li:hover{
+    background-color: rgba(255, 193, 120, 0.9);
+}
+
+li:hover > ul {
+    position: absolute;
+    display: block;
+    width: 502.2px;
+    margin-left: 0px;
+    margin-top: 29px;
+}
+
+li:hover > ul > li{
+    float: none;
+    background-color: white;
+    padding-left: 5px;
+    border: solid 2px rgb(255, 134, 86);
+}
+
+ul > li > ul > li:hover{
+    background-color: rgba(255, 193, 120, 0.9);
+    padding-bottom: 10px;
+    font-style: italic;
+}
+
+.unga-bunga{
+    border-color: rgb(255, 134, 86);
+    border-style: solid;
+}
+
+.mozhet-bit-bbbbbbb{
+    text-align: left;
+}
+
+.slave_industry{
+    background-color: white;
+    position: absolute;
+    left: 35%;
+    bottom: 0%;
+    top: 100px;
+    right: 35%;
+    padding: 10px;
+    text-align: center;
+    border: solid 10px rgb(255, 134, 86);
+}
+
+
+.switcher{
+    background-color: white;
+    padding: 10px;
+    margin-top: 500px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    margin-left: 42%;
+    border: solid 5px rgb(255, 134, 86);
+    position: relative;
+}
+
+.pd{
+    padding: 5px;
+}
+
+.bob:hover{
+    background: white;
+}
+
+.fantasy{
+    background-color: white;
+    position: absolute;
+    left: 28%;
+    bottom: 0%;
+    top: 73px;
+    right: 35%;
+    padding: 10px;
+    text-align: center;
+    border: solid 10px rgb(255, 134, 86);
+    position: relative;
+    text-align: left;
+    height: 570px;
+    width: 600px;   
+}
+
+.ready{
+    position: absolute;
+    height: 380px;
+    right: 30px;
+}
+
+.injury{
+    width: 250px;
+}
+
+.i_swear_to_fucking_god_this_tower_will_make_me_commit_die{
+    background-color: white;
+    padding: 10px;
+    margin-top: -30px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    margin-left: 42%;
+    border: solid 5px rgb(255, 134, 86);
+    position: relative;
+}
+
+footer{
+    z-index: 20;
+}
