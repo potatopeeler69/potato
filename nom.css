@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(211, 211, 211);
+    background-size: contain;
+}
+
+.background{
+    background-color: white;
+    border-right: solid 10px rgb(255, 134, 86);
+    border-bottom: solid 10px   rgb(255, 134, 86);
+    border-left: solid 10px rgb(255, 134, 86);
+    border-top: solid 10px rgb(255, 134, 86);
+
+
+    width: 800px;
+    margin-left: 23%;
+    padding: 10px;
+}
+
+h2, h1{
+    text-align: center;
+}
+
+.switcher{
+    background-color: white;
+    padding: 10px;
+    margin-top: 20px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    margin-left: 42%;
+    border: solid 5px rgb(255, 134, 86);
+
+
+    
+}
+
+.pd{
+    padding: 5px;
+}
+
+.center{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.no{
+    color: gray;
+}
+
+.yes{
+    color: orange;
+}
+
+#potatosalad{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5216e267e4b0cb074c79fdb3/1418883403883-9VSV027NYC5I0KP9O7IU/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/image-asset.jpeg);
+    background-size: cover;
+}
+
+#black_child{
+    background: url(https://voresmad.dk/~/media/voresmad/artikler/madlavning/flaeskestegafsvinekamperfekttilberedt.jpg);
+    background-size: cover;
+}
+
+#white_child{
+    background: url(https://www.cdn.alt.dk/1eafc4794a3545ecb57c79c1ad0ec75d/0ddccb598515402a8a7d4d1fcce4aec9.jpg);
+    background-size: cover;
+}
+
+#Viggo{
+    background: url(https://foodtv.dk/wp-content/uploads/2017/04/1303_honsekodssuppe_web.jpg);
+    background-size: cover;
+}
+
+#rotto{
+    background: url(https://voresmad.dk/~/media/voresmad/recipes/k/krebinetter-med-stuvede-aerter-og-guleroedder.jpg);
+    background-size: cover;
+}
+
+#cola_better_than_pepsi{
+    background: url(https://madensverden.dk/wp-content/uploads/2019/10/medister-sous-vide.jpg);
+    background-size: cover;
+}
+
+#birb{
+    background: url(https://www.tv2lorry.dk/files/styles/16_9_large_2x/public/media/2018/21/70000486-4288x2848ma.jpg?itok=DV7AIAJD);
+    background-size: cover;
+}
+
+#black_mum{
+    background: url(https://www.gastrofun.dk/sites/default/files/styles/800b4/public/2019-01/Rugbr%C3%B8d.jpg?itok=myaOiHQN);
+    background-size: cover;
+}
+
+#rar{
+    background: url(https://www.cdn.alt.dk/6bf3eabb5e4c4091b859631949899c55/6715019f8dda4af3a50112462b557325.jpg);
+    background-size: cover;
+}
+
+#sauce{
+    background: url(https://voresmad.dk/~/media/voresmad/recipes/s/stegt-flaesk-med-persillesovs-trin-for-trin.jpg);
+    background-size: cover;
+}
+
